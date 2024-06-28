@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "dolarprareal"
 Var
    reais, dolares: Real
 Inicio
